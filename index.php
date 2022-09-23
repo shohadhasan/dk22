@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Lopdding </h1>
+    <h1>Lodding </h1>
     <?php
 require("simple_html_dom.php");
 $html = file_get_html("https://www.popvortex.com/music/charts/top-100-songs.php");
